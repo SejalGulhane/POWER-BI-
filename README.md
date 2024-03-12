@@ -29,7 +29,7 @@ The analysis that we are going to perform shall answer the following questions:
 
  3.what is the  category of product have highest quantity  with the size ?
 
- 4. What is the category of product that generated the highest total sales amount?"
+4. What is the category of product that generated the highest total sales amount?"
 
  5.What is the overall trend in the number of orders over the time period?
 
