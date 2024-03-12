@@ -39,3 +39,4 @@ Dataset : https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
 
 ## Dashboard 
+<img src= "https://github.com/SejalGulhane/POWER-BI-/blob/main/Amazon%20sale%20Dashboared%20Image%20.jpg" alt="MLBC">
